@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exis",
+				"fs.existsSync(path);"
+			],
+			[
+				"read",
+				"fs.readdirSync(path);"
+			],
+			[
+				"countDown",
+				"CountDownLatch"
+			],
+			[
+				"mongodb",
+				"mongodb_url"
+			],
+			[
+				"mongo",
+				"mongodb_url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/siyaomin/Documents/workspace/node-shan/yaochen.zip",
+		"/Users/siyaomin/app/hbase-0.98.13-hadoop1/conf/hbase-site.xml",
+		"/Users/siyaomin/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/siyaomin/Downloads/odps_clt_release_64/conf/odps_config.ini",
+		"/Users/siyaomin/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/siyaomin/Documents/GitHub/blog/public/javascripts/index.js",
+		"/Users/siyaomin/Documents/GitHub/blog/views/index.jade",
+		"/Users/siyaomin/Documents/GitHub/blog/views/detail.jade",
+		"/Users/siyaomin/Downloads/layzr.js-master/src/layzr.js",
+		"/Users/siyaomin/Documents/GitHub/blog/views/layout.jade",
+		"/Users/siyaomin/Documents/GitHub/blog/public/javascripts/app.js",
+		"/Users/siyaomin/Documents/GitHub/blog/lib/file_keeper.js",
+		"/Users/siyaomin/Documents/GitHub/blog/lib/works.js",
+		"/Users/siyaomin/Documents/GitHub/blog/views/edit_layout.jade",
+		"/Users/siyaomin/Documents/GitHub/blog/views/about.jade",
+		"/Users/siyaomin/Documents/GitHub/blog/lib/utils.js",
+		"/Users/siyaomin/Documents/GitHub/blog/public/javascripts/detail.js",
+		"/Users/siyaomin/Documents/GitHub/blog/lib/app_config.js",
+		"/Users/siyaomin/Documents/GitHub/blog/views/edit.jade",
+		"/Users/siyaomin/Documents/GitHub/blog/node_modules/ext.js",
+		"/Users/siyaomin/Documents/GitHub/blog/package.json",
+		"/Users/siyaomin/Desktop/ext.js",
+		"/Users/siyaomin/Documents/GitHub/blog/ext.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/public/javascripts/app.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/layout.jade",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/detail.jade",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/routes/users.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/app.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/routes/index.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/file_keeper.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/navs.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/works.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/utils.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/about.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/app_config.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/public/javascripts/edit.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/admin.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/attaches.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/fileKeeper.js",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/error.jade",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/about",
+		"/Users/siyaomin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/lib/exports.AppConfig={",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/edit.jade",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/index.jade",
+		"/Users/siyaomin/Documents/workspace/node-shan/blog/views/edit_layout.jade",
+		"/Users/siyaomin/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/siyaomin/Documents/珊/yaochen/web/index/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hsfSarPath",
+			"hsf",
+			"fbuffer",
+			"//\n",
+			"ed-btn1",
+			"\\\"",
+			"\\",
+			"\\\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
