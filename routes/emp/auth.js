@@ -12,4 +12,7 @@
 	router.get('/demo', function(req, res, next) {
 	  res.send(auth.demo);
 	});
+	router.get("/logout",function(req,res,next){
+		res.send(auth.logout({userId:'1'}));
+	})
 	module.exports = router;
