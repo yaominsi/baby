@@ -13,7 +13,9 @@ var empReg = require('./routes/emp/reg');
 var staffContact = require('./routes/staff/contact');
 var staffEmptyTime = require('./routes/staff/empty-time');
 var staffBase = require('./routes/staff/base');
+var staffExp = require('./routes/staff/exp');
 var staffWorkHope = require('./routes/staff/work-hope');
+var staffCertificate = require('./routes/staff/certificate');
 
 var app = express();
 
@@ -37,7 +39,9 @@ app.use('/emp/preOrder', empPreOrder);
 app.use('/staff/contact', staffContact);
 app.use('/staff/emptyTime', staffEmptyTime);
 app.use('/staff/base', staffBase);
+app.use('/staff/exp', staffExp);
 app.use('/staff/workHope', staffWorkHope);
+app.use('/staff/certificate', staffCertificate);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
